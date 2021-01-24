@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Yongpyo Kim"
   avatar           : "/assets/images/profile.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "용표야 코딩하자~"
+  bio              : "NHN 신입 개발자 김용표입니다!"
   location         : "South Korea"
   email            : 
   links:
