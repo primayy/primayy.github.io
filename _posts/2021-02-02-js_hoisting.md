@@ -29,7 +29,7 @@ author_profile: true
 
 [4. let과 const로 선언한 변수의 호이스팅](#let과-const로-선언한-변수의-호이스팅)
 
-[5. let과 const 키워드는 호이스팅이 안되는 걸까?](#let과 const 키워드는 호이스팅이 안되는 걸까?)
+[5. let과 const 키워드는 호이스팅이 안되는 걸까?](#let과-const-키워드는-호이스팅이-안되는 걸까?)
 
 [6. 정리](#정리)
 
@@ -169,9 +169,11 @@ const c=1;
     </P> 
     <i><b>제게 거짓말을 했던걸까요...?</b></i>
     <p>
-        <b>긁어요!!! -></b><span style="color:white;"><b>let, const도 호이스팅 된다!!!!!!!!!!!!</b></span><b><- 긁어요!!!</>
-    </p>
+        <b>긁어요!!! -></b>
+        <span style="color:white;"><b>let, const도 호이스팅 된다!!!!!!!!!!!!</b></span>
+        <b><- 긁어요!!!</b></p>
 </center>
+
 
 
 
