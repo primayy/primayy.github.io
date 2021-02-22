@@ -1,25 +1,15 @@
 ---
 
-title: "[2021/2/1 ~ 2021/2/19] 베이스 캠프 4~5주차 회고"
-
+title: "[2021/2/8 ~ 2021/2/19] 베이스 캠프 4~5주차 회고"
 date: 2021-02-22
-
 categories: 
-
-  \- basecamp
-
+  - basecamp
 toc: true
-
 author_profile: true
-
 toc_label: "목차" # toc 이름 설정
-
 toc_icon: "bars" # 아이콘 설정
-
 toc_sticky: false # 마우스 스크롤과 함께 내려갈 것인지 설정
-
 author_profile: true
-
 ---
 
 
